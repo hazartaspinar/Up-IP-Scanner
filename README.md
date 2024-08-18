@@ -1,4 +1,4 @@
-# up-ip-scanner
+# Up IP Scanner
 Nmap Up IP Scanner
 This Python script allows you to quickly discover and save the online (up) IP addresses within a specified subnet. By entering a subnet (e.g., 192.168.1.0/24), the script uses Nmap to identify live hosts and automatically saves the results in a text file formatted as subnet-up-list.txt.
 
