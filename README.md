@@ -14,7 +14,7 @@ This Python script allows you to quickly discover and save the online (up) IP ad
 - **Network Administrators:** Quickly identify active devices in a subnet.
 - **Security Professionals:** Pre-scan a network to find live hosts before deeper analysis.
 
-## How to Use
+## Requirements
 
 1. **Install Nmap:** Make sure you have Nmap installed on your system. You can install it via the package manager of your operating system. For example:
    - **Debian/Ubuntu:** `sudo apt-get install nmap`
@@ -25,7 +25,7 @@ This Python script allows you to quickly discover and save the online (up) IP ad
    ```bash
    git clone https://github.com/hazartaspinar/up-ip-scanner
 
-## 3. Run the Script:
+## 3. How to Use
 To scan a subnet, run the script using Python:
 
 ```bash
