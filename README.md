@@ -22,13 +22,11 @@ This Python script allows you to quickly discover and save the online (up) IP ad
    - **macOS:** `brew install nmap`
   
 ## Installation
-
-1. **Clone the Repository:**
+   **Clone the Repository:**
    ```bash
    git clone https://github.com/hazartaspinar/up-ip-scanner
 
-## 1. How to Use
-To scan a subnet, run the script using Python:
-
+## How to Use
+**To scan a subnet, run the script using Python:**
    ```bash
    python up_ip_scanner.py
