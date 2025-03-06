@@ -28,7 +28,7 @@ This Python script allows you to quickly discover and save the online (up) IP ad
    git clone https://github.com/hazartaspinar/up-ip-scanner
 
 ## How to Use
-To scan a subnet, run the script using Python:
+2. **To scan a subnet, run the script using Python:**
 
    ```bash
    python up_ip_scanner.py
