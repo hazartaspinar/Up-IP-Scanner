@@ -30,5 +30,5 @@ This Python script allows you to quickly discover and save the online (up) IP ad
 ## 1. How to Use
 To scan a subnet, run the script using Python:
 
-```bash
+   ```bash
    python up_ip_scanner.py
